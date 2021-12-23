@@ -1,0 +1,4 @@
+libro 90 60
+pizza 20 50
+pianta 1 30
+telefono 300 99
